@@ -1,0 +1,3 @@
+14/11/2021 15:58:20 [INFO /main]: EMICaluculator(15):Started the Execution
+14/11/2021 15:58:31 [ERROR/main]: EMICaluculator(21):Started the Execution
+14/11/2021 15:58:42 [WARN /main]: EMICaluculator(27):taking too much time
